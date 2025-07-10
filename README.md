@@ -3,41 +3,39 @@
 Computer Science graduate with a passion for problem-solving and intelligent system design. Approaching problems with an open mind and delivering, efficient, optimal and practical solutions.
 
 ---
+## 🚀 **Core Competencies**
 
-## Skills
+### 🧠 **Computer Vision / Machine Learning / Deep Learning**
+- 🟡 **YOLO v5**, **v8**
+- 🔶 **TensorFlow**
+- 🔷 **PyTorch**
+- ⚙️ **Scikit-learn**
 
-### Computer Vision / ML / DL
-- YOLO v5, v8  
-- TensorFlow  
-- PyTorch  
-- Scikit-learn  
+### 📊 **Data Handling & Engineering**
+- 📥 Data **Extraction** & **Synthesis**
+- 🧹 Data **Cleaning** & **Processing**
+- 🧪 Data **Augmentation**
 
-### Data Handling
-- Extraction  
-- Synthesis  
-- Cleaning  
-- Processing  
-- Augmentation  
+### 🤖 **Robotics & Control Systems**
+- 🧭 **Sensor Fusion**
+- 🦿 **Kinematics**
+- 🎯 **PID Control**
+- 📉 **Kalman Filter**
 
-### Robotics
-- Sensor Fusion  
-- Kinematics  
-- PID Control  
-- Kalman Filter  
-
-### 3D Design
-- Blender  
-- AutoDesk Fusion  
+### 🧱 **3D Modeling & CAD**
+- 🌀 **Blender**
+- 🛠️ **AutoDesk Fusion 360**
 
 ---
 
-## Tech Stack
+## 💻 **Technical Proficiencies**
 
-- **Languages:** Python, C/C++, TypeScript, JavaScript, Cython, Java, PHP  
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, YOLO  
-- **Tools & Platforms:** Blender, AutoDesk Fusion, Git, Docker  
+- 🧑‍💻 **Languages:** Python, C/C++, TypeScript, JavaScript, Cython, Java, PHP  
+- 📚 **Libraries/Frameworks:** TensorFlow, PyTorch, Scikit-learn, YOLO  
+- 🛠️ **Tools & Platforms:** Git, Docker, Blender, AutoDesk Fusion 360  
 
 ---
+
 
 <!-- ## GitHub Stats
 
