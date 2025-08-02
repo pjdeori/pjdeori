@@ -6,33 +6,41 @@ Computer Science graduate with a passion for problem-solving and intelligent sys
 ## 🚀 **Core Competencies**
 
 ### 🧠 **Computer Vision / Machine Learning / Deep Learning**
-- 🟡 **YOLO v5**, **v8**
-- 🔶 **TensorFlow**
-- 🔷 **PyTorch**
-- ⚙️ **Scikit-learn**
+- 🟡 YOLO v5, v8
+- 🔶 TensorFlow
+- 🔷 PyTorch
+- ⚙️ Scikit-learn
 
 ### 📊 **Data Handling & Engineering**
-- 📥 Data **Extraction** & **Synthesis**
-- 🧹 Data **Cleaning** & **Processing**
-- 🧪 Data **Augmentation**
+- 📥 Data Extraction & Synthesis
+- 🧹 Data Cleaning & Processing
+- 🧪 Data Augmentation
+
+### 💻 **Software Engineering / Web Development**
+- ⚛️ React, Next.js
+- 🛠️ Node.js, REST APIs
+- 🎨 UI/UX Design, Responsive Layouts
+- 🧩 Modular Architecture, Scalable Components
 
 ### 🤖 **Robotics & Control Systems**
-- 🧭 **Sensor Fusion**
-- 🦿 **Kinematics**
-- 🎯 **PID Control**
-- 📉 **Kalman Filter**
+- 🧭 Sensor Fusion
+- 🦿 Kinematics
+- 🎯 PID Control
+- 📉 Kalman Filter
 
 ### 🧱 **3D Modeling & CAD**
-- 🌀 **Blender**
-- 🛠️ **AutoDesk Fusion 360**
+- 🌀 Blender
+- 🛠️ AutoDesk Fusion 360
 
 ---
 
 ## 💻 **Technical Proficiencies**
 
 - 🧑‍💻 **Languages:** Python, C/C++, TypeScript, JavaScript, Cython, Java, PHP  
-- 📚 **Libraries/Frameworks:** TensorFlow, PyTorch, Scikit-learn, YOLO  
-- 🛠️ **Tools & Platforms:** Git, Docker, Blender, AutoDesk Fusion 360  
+- 📚 **Libraries/Frameworks:**  
+  - ML: TensorFlow, PyTorch, Scikit-learn, YOLO  
+  - Web: React, Next.js, Node.js  
+- 🛠️ **Tools & Platforms:** Git, Docker, Linux, Blender, AutoDesk Fusion 360
 
 ---
 
